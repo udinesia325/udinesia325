@@ -65,9 +65,9 @@
 
 <p>
 <a href="https://github.com/udinesia325"><img src="https://img.shields.io/badge/-udinesia325-black?logo=github&style=flat-square"/></a>
-<a href="https://instagram.com/nfc_dheen"><img src="https://img.shields.io/badge/-udinesia325-pink?logo=instagram&style=flat-square"/></a>
+<a href="https://instagram.com/nfc_dheen"><img src="https://img.shields.io/badge/-nfc_dheen-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:udinesia325@gmail.com"><img src="https://img.shields.io/badge/-udinesia325@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://www.facebook.com/fahruddin.salim.1"><img src="https://img.shields.io/badge/-udinesia325@gmail.com-grey?logo=facebook&style=flat-square"/></a>
+<a href="https://www.facebook.com/fahruddin.salim.1"><img src="https://img.shields.io/badge/-ach%20fachruddin%20s-grey?logo=facebook&style=flat-square"/></a>
 
 </p>
 
