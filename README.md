@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, laravel, nodejs**
 
-- 👨‍💻 All of my projects are available at [https://udinesia325.github.io/portofolio/](https://udinesia325.github.io/portofolio/)
+- 👨‍💻 My portfolio are available at [https://udinesia325.github.io/](https://udinesia325.github.io/)
 
 - 💬 Ask me about **react, html, and css**
 
