@@ -70,6 +70,7 @@
 
 ###
 
+<img src="./code.svg" />
 <img src="https://raw.githubusercontent.com/udinesia325/udinesia325/output/snake.svg" alt="Snake animation" />
 
 ###
